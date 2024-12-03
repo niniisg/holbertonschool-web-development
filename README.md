@@ -1,1 +1,0 @@
-# -holbertonschool-web-development

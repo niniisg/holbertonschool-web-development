@@ -16,6 +16,7 @@ header {
     padding-right: 150px;
     padding-top: 25px;
 
+
 }
 
 nav ul {
@@ -24,6 +25,10 @@ nav ul {
     display: flex;
     justify-content: flex-start;
     gap: 10px;
+}
+ 
+nav ul a {
+    color:#FFFFFF
 }
 
 section {
@@ -102,6 +107,7 @@ section {
 }
 .pros-face {
     margin-top: 150px;
+    color: #FFFFFF;
 }
 
 .box {

@@ -1,0 +1,239 @@
+body {
+    background-image: url(./images/risa.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    padding: 10px 0;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 25px;
+
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: flex-start;
+    gap: 10px;
+}
+
+section {
+    margin-bottom: 40px;
+}
+
+
+p {
+    font-family: sans-serif;
+}
+
+
+.purple-text {
+    color: #C271FF;
+   
+}
+
+.register-button {
+   background-color: #C271FF;
+   color: #FFFfff;
+    font-size: 1rem;
+   align-items: center;
+    padding: 10px 20px;
+    border-radius: 50px;
+    cursor: pointer;
+    display: inline-block;
+    margin-bottom: 90px;
+ 
+}
+
+.happy {
+    color: white;
+    list-style: none;
+    margin: 0;
+    margin-bottom: 20px;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    
+   
+}
+
+.happy li {
+    padding: 10px;
+    color: #FFFFFF;
+    border-radius: 5px;
+    
+}
+
+section {
+    text-align: center;
+}
+
+.section-content {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin: 50px 0;
+    
+}
+
+.container div {
+    text-align: center;
+    max-width: 250px;
+}
+.container img {
+    border-radius: 50%;
+}
+.pros-face {
+    margin-top: 150px;
+}
+
+.box {
+    display: block;
+    padding: 1rem;
+    border: 2px double #000000;
+    border-radius: 12px;
+}
+
+
+.logo {
+   display: flex;
+   align-items: center;
+}
+
+.get {
+    text-align: center;
+    font-size: 100px;
+    margin-top: 200px;
+    margin-bottom: -10px;
+    color: #FFFFFF;
+
+}
+
+.quote_section {
+    background-color: #C271FF;
+    margin-top: 200px;
+    padding: 100px;
+    grid-template-columns: auto 1fr;
+    gap: 20px;
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly;
+   
+}
+.quote_section img {
+    max-width: 100%;
+    border-radius: 50%;
+    margin: left;
+}
+
+.quote_section blockquote {
+    font-size: 1.2em;
+    color: #FFFFFF;
+    text-align: left;
+    white-space: pre-line;
+
+}
+.person_info {
+    text-align: left;
+    padding-left: 5%;
+    font-weight: bold;
+    color: #FFFFFF;
+}
+
+
+.smile-carita, footer{
+   background-color: black;
+   color: #FFFFFF;
+      
+}
+
+.video-banner h1 {
+    align-items: center;
+   
+}
+.video-box img {
+    border-radius: 0%;
+}
+
+.membership {
+    display: flex;
+}
+.star {
+    display: flex;
+   
+}
+.faq-grid {
+    display: grid;
+    grid-template-columns: auto auto;
+    margin: 0px 300px;
+}
+.faq-item {
+   padding: 20px;
+   white-space: pre-line;
+   text-align: left;
+}
+.info-faq {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:lighter;
+    font-size: 60px;
+}
+.faq-item p {
+    margin: 0;
+}
+
+.phill #phil-img {
+    border-radius: 50%;
+    height: 40px;
+    margin: 10px;
+}
+.star-phill {
+    display: flex;
+}
+.video-box {
+    padding: 50px;
+    align-items: start;
+    justify-content: left;
+    justify-self: left;
+}
+.strellita {
+padding-right: 700px;
+}
+
+.phill {
+   justify-content: left;
+   align-items: left;
+   justify-self: left;
+  
+}
+
+ .copy-r{
+    display: flex;
+    justify-content: center;
+    background-color: #000000;
+    color: #FFFFFF;
+ }
+
+ footer .smile {
+   padding: 20px;
+   display: flex;
+   justify-content: space-between;
+   align-items: flex-start;
+
+ }
